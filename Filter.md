@@ -96,7 +96,7 @@ var printContent = newArray.map((person) => {
 }); //['Adam', 'Surya']
 
 
-This will return Adam and Surya who have the postcode 2000. 
+//This will return Adam and Surya who have the postcode 2000. 
 ```
 See this live example http://js.do/code/foreachjsexample
 
